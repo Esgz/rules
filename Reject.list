@@ -1,0 +1,10 @@
+# NAME Reject
+# AUTHOR: Esgz
+# By Surge
+
+# ======= 手动维护规则 ========
+
+# Adobe 验证
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
+
